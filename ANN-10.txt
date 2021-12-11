@@ -1,0 +1,10 @@
+couche :  1  score :  0.8546666666666667  time :  4381.58
+couche :  2  score :  0.8133333333333334  time :  2326.15
+couche :  3  score :  0.8233333333333334  time :  3280.01
+couche :  4  score :  0.84  time :  5182.88
+couche :  5  score :  0.8646666666666667  time :  4488.71
+couche :  6  score :  0.8766666666666667  time :  4881.93
+couche :  7  score :  0.8753333333333333  time :  5417.04
+couche :  8  score :  0.894  time :  4104.13
+couche :  9  score :  0.9033333333333333  time :  4683.96
+couche :  10  score :  0.904  time :  5247.85
